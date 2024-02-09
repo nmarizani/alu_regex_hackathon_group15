@@ -12,4 +12,4 @@ __junior
 '''
 
 matches = re.findall(pattern, z)
-print(match)
+print(matches)
