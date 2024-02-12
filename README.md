@@ -1,8 +1,8 @@
-## Alu_regex_hackathon_group15
+# Alu_regex_hackathon_group15
 
-# Our regular expressions group assignment using python
+## Our regular expressions group assignment using python
 
-Regular Expressions Hackathon goup15
+## Regular Expressions Hackathon goup15
 
 ## Project Description
 Welcome to our regular expressions hackathon! Our team of junior full stack developers is working on an exciting project for a private organization. We have designed an API that aggregates data from various sources on the web and displays relevant information based on user requests.
@@ -22,7 +22,7 @@ IP Addresses
 
 ## Example Regular Expressions
 
-# Here's an example of regular expressions to extract movie titles:
+ Here's an example of regular expressions to extract movie titles:
 
 
 Regular Expression: Title \(yyyy\)
