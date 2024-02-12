@@ -35,7 +35,9 @@ Extraction Result:
 - Year: "1997"
 
   ## Contibutors
-  Deolinda Bio Bogore
+  <ul>
+ <li>Deolinda Bio Bogore
+   item</li>
   Nicole Marizani
   Belinda Larose
   Annabelle Ineza
