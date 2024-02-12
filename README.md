@@ -8,7 +8,7 @@ Regular Expressions Hackathon goup15
 Welcome to our regular expressions hackathon! Our team of junior full stack developers is working on an exciting project for a private organization. We have designed an API that aggregates data from various sources on the web and displays relevant information based on user requests.
 
 ## Objective
-# The goal of this project is to extract different categories of data from hundreds of pages of text strings using regular expressions. Here are the types of data we need to extract:
+The goal of this project is to extract different categories of data from hundreds of pages of text strings using regular expressions. Here are the types of data we need to extract:
 
 Movie Titles
 Song Lyrics
@@ -39,7 +39,7 @@ Extraction Result:
  <li>Deolinda Bio Bogore
    </li>
    <ul>
-  <li>li>Nicole Marizani
+  <li>Nicole Marizani
     </li>
      <ul>
   <li>Belinda Larose
