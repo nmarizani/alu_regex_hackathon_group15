@@ -37,7 +37,13 @@ Extraction Result:
   ## Contibutors
   <ul>
  <li>Deolinda Bio Bogore
-   item</li>
-  Nicole Marizani
-  Belinda Larose
-  Annabelle Ineza
+   </li>
+   <ul>
+  <li>li>Nicole Marizani
+    </li>
+     <ul>
+  <li>Belinda Larose
+     </li>
+       <ul>
+ <li> Annabelle Ineza
+ </li> 
